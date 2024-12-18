@@ -21,7 +21,7 @@ This will launch the interactive mode, where you can input the required informat
 
 ```
 
-#Options
+# Options
 
 ```bash
 
@@ -35,38 +35,39 @@ The following options are available:
   --download-wordlist    Download a specific wordlist
    
 ```
-#Examples
+# Examples
 
 ```bash
 
 Run in interactive mode:
 
-   --python credgen_venom.py -i
+   python credgen_venom.py -i
 
 Save generated passwords to a file:
   
- --python credgen_venom.py -i -s output.txt
+   python credgen_venom.py -i -s output.txt
 
 Generate 10 passwords:
   
- --python credgen_venom.py -i -n 10
+    python credgen_venom.py -i -n 10
 
 Download the rockyou wordlist:
 
-  --python credgen_venom.py --download-wordlist rockyou
+   python credgen_venom.py --download-wordlist rockyou
 
 Generate passwords and download wordlist in one command:
 
-  --python credgen_venom.py -i -n 20 --download-wordlist 10_million
+    python credgen_venom.py -i -n 20 --download-wordlist 10_million
 
 Display the help menu:
 
-  --python credgen_venom.py -h
+    python credgen_venom.py -h
 
 
 ```
 
-#License
+# License
+
 CredGen Venom is released under the GNU General Public License version 3 (GPL-3.0). See the LICENSE file for details.
 
 GPL-3.0 License
@@ -76,10 +77,12 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
 
-#Contributing
+# Contributing
+
 Contributions are welcome! If you'd like to contribute to CredGen Venom, please fork the repository and submit a pull request.
 
-#Disclaimer
+# Disclaimer
+
 CredGen Venom is designed for educational purposes only. It should not be used for malicious activities, such as cracking passwords without authorization. Use at your own risk.
 
 By using CredGen Venom, you acknowledge that you have read and understood the terms of the GPL-3.0 License and agree to abide by them.
