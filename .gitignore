@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+.env
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+generated_passwords.txt
