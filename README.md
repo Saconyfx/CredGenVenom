@@ -8,13 +8,14 @@ CredGen Venom is a password profiling tool designed to generate a list of potent
 - Supports various password formats and complexity levels
 - Includes a built-in wordlist generator
 - Allows users to customize password generation options
+- Allows users to download wordlists (e.g., `rockyou` and `10_million`)
 
 ### Usage
 
-#### Basic Usage
-To use CredGen Venom, simply run the script and follow the prompts:
 
 ```bash
+To use CredGen Venom, simply run the script and follow the prompts:
+
 python credgen_venom.py -i
 
 This will launch the interactive mode, where you can input the required information to generate a list of potential passwords.
