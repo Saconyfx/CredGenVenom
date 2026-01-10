@@ -87,7 +87,6 @@ def generate_passwords(user_data, num_passwords):
            passwords.add(combination)  
   
    return list(passwords)  
-  
 # Function to save the generated passwords to a file  
 def save_wordlist(passwords):  
    filename = "generated_passwords.txt"  
