@@ -12,6 +12,7 @@ CredGen Venom is a password profiling tool designed to generate a list of potent
 - Allows users to download wordlists (e.g., `rockyou` and `10_million`)
 
 
+
 ### Installation & Usage
 
 ```bash
