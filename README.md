@@ -83,7 +83,6 @@ Display the help menu:
 # License
 
 CredGen Venom is released under the GNU General Public License version 3 (GPL-3.0). See the LICENSE file for details.
-
 GPL-3.0 License
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
