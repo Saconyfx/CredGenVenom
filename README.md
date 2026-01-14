@@ -98,5 +98,4 @@ Contributions are welcome! If you'd like to contribute to CredGen Venom, please 
 # Disclaimer
 
 CredGen Venom is designed for educational purposes only. It should not be used for malicious activities, such as cracking passwords without authorization. Use at your own risk.
-
 By using CredGen Venom, you acknowledge that you have read and understood the terms of the GPL-3.0 License and agree to abide by them.
