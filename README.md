@@ -12,6 +12,7 @@ CredGen Venom is a password profiling tool designed to generate a list of potent
 
 ### Installation & Usage
 
+
 ```bash
 To use CredGen Venom, simply run the script and follow the prompts:
 
