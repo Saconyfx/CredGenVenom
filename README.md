@@ -5,6 +5,7 @@ CredGen Venom is a password profiling tool designed to generate a list of potent
 
 ### Features
 
+
 - Generates a list of potential passwords based on user input
 - Supports various password formats and complexity levels
 - Includes a built-in wordlist generator
